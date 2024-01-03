@@ -1,3 +1,1 @@
-# itmesneha.github.io
-
-A personal website. Mainly made to practise HTML and CSS. 
+https://www.chinhegde.github.io
